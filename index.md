@@ -1,4 +1,4 @@
-I am an undergraduate mathematics student at the Australian National University with broad interests, but have spent some time recently in equivariant stable homotopy theory.
+I am an undergraduate mathematics student at the Australian National University with broad interests, but have recently spent some time doing equivariant stable homotopy theory.
 
 Here is my [CV](./CV.pdf).
 

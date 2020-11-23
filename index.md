@@ -2,5 +2,5 @@ I am an undergraduate mathematics student at the Australian National University 
 
 Here is my [CV](./CV.pdf).
 
-### Honours thesis
+### Honours Thesis
 

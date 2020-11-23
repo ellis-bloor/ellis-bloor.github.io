@@ -7,3 +7,5 @@ Here is my [CV](./CV.pdf).
 My [thesis](./thesis.pdf) was supervised by Dr. Vigleik Angeltveit, and gives a complete algebraic description of the homotopy Mackey functors of the equivariant Eilenberg-MacLane spectrum HF_2 over the Klein four-group.
 
 ### Expository Writings
+
+* [The local Atiyah-Singer index theorem over four-manifolds](./Atiyah-Singer_index_theorem.pdf)

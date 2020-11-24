@@ -9,3 +9,4 @@ My [thesis](./thesis.pdf) was supervised by Dr. Vigleik Angeltveit, and gives a 
 ### Expository Writings
 
 * [The local Atiyah-Singer index theorem over four-manifolds](./Atiyah-Singer_index_theorem.pdf)
+* [Yang-Mills theory on Riemann surfaces](./Yang-Mills_Riemann_surfaces.pdf)

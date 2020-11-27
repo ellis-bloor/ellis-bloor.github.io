@@ -9,5 +9,5 @@ My [thesis](./thesis.pdf) was supervised by Dr. <a href="https://maths.anu.edu.a
 ### Expository Writings
 
 * [The local Atiyah-Singer index theorem over four-manifolds](./Atiyah-Singer_index_theorem.pdf)
-* [Universal C<sup>*</sup>-algebras, semiprojectivity and graph C<sup>*</sup>-algebras](./Operator_algebras.pdf)
+* [Universal C*\-algebras\, semiprojectivity and graph C*\-algebras](./Operator_algebras.pdf)
 * [Yang-Mills theory on Riemann surfaces](./Yang-Mills_Riemann_surfaces.pdf)

@@ -1,4 +1,7 @@
-I am an undergraduate mathematics student at the <a href="https://www.anu.edu.au/">Australian National University</a> with broad interests, but have recently spent some time doing equivariant stable homotopy theory.
+<div>
+    <p style="float: right;"><img src="./IMG_2098.PNG"> </p>
+    <p>I am an undergraduate mathematics student at the <a href="https://www.anu.edu.au/">Australian National University</a> with broad interests, but have recently spent some time doing equivariant stable homotopy theory. </p>  
+</div>
 
 Here is my [CV](./CV.pdf).
 

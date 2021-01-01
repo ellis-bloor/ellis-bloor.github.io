@@ -7,7 +7,7 @@ Here is my [CV](./CV.pdf).
 
 ### Honours Thesis
 
-My [thesis](./thesis.pdf) was supervised by Dr. <a href="https://maths.anu.edu.au/people/academics/vigleik-angeltveit/">Vigleik Angeltveit</a>, and gives a complete algebraic description of the homotopy Mackey functors of the equivariant Eilenberg-MacLane spectrum HF_2 over the Klein four-group.
+My [thesis](./thesis.pdf) was supervised by Dr. <a href="https://maths.anu.edu.au/people/academics/vigleik-angeltveit/">Vigleik Angeltveit</a>, and gives a complete algebraic description of the homotopy Mackey functors of the equivariant Eilenberg-MacLane spectrum HF_2 over the Klein four group.
 
 ### Expository Writings
 

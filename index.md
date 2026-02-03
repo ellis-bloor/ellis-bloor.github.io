@@ -8,11 +8,12 @@
 
     <p>Here is my <a href="./CV.pdf">CV</a>.</p>
 
-    <h2>Papers and preprints</h2>
-    <!-- Add papers here, e.g.
-    <ul>
-      <li><a href="...">Title</a> (with coauthors, year)</li>
-    </ul>
+    <h2>Research</h2>
+<ul>
+  <li>
+    Cobordism-valued intersection theory on \(\overline{M}_{0,n}\). <em>In preparation.</em>
+  </li>
+</ul>
     -->
 
     <h2>Other writings</h2>

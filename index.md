@@ -11,7 +11,7 @@
     <h2>Research</h2>
 <ul>
   <li>
-    Cobordism-valued intersection theory on \(\overline{M}_{0,n}\). <em>In preparation.</em>
+    Cobordism-valued intersection theory on M_{0,n}-bar. <em>In preparation.</em>
   </li>
 </ul>
     -->

@@ -12,10 +12,5 @@ Here is my [CV](./CV.pdf).
 
 My undergraduate thesis, entitled [The Klein four homotopy Mackey functor structure of HF_2](./thesis.pdf).
 
-### Expository Writings
+### Teaching
 
-* [The local Atiyah-Singer index theorem over four-manifolds](./Atiyah-Singer_index_theorem.pdf)
-* [The Atiyah-Segal completion theorem](./VBKT_Report.pdf)
-* [Universal C\*-algebras, semiprojectivity and graph C\*-algebras](./Operator_algebras.pdf)
-* [Yang-Mills theory on Riemann surfaces](./Yang-Mills_Riemann_surfaces.pdf)
-* [Infinite-dimensional Ramsey theory](./Ramsey_theory.pdf)

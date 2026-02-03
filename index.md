@@ -5,7 +5,15 @@
       I am interested in algebraic topology and algebraic geometry. Currently, I am thinking about
       cobordism theory and intersection theory on the moduli space of curves.
     </p>
+<p>Here is my <a href="CV.pdf">CV</a>.</p>
+  </div>
 
+  <div style="flex:0 0 auto;">
+    <img src="Photo.png"
+         alt="Photo"
+         style="width:260px; height:auto; border-radius:8px; display:block;">
+  </div>
+</div>
 <div>
     <p>I am a fifth year graduate student in mathematics at Northwestern, advised by <a href="https://sites.northwestern.edu/getzler/">Ezra Getzler</a>. I am interested in algebraic topology and algebraic geometry. Currenty, I am thinking about cobordism theory and intersection theory on the moduli space of curves. </p>  
 </div>

@@ -1,13 +1,16 @@
 <div>
     <p style="float: right;"><img src="./IMG_2098.PNG"> </p>
-    <p>I am an undergraduate mathematics student at the <a href="https://www.anu.edu.au/">Australian National University</a> with broad interests, but have recently spent some time doing equivariant stable homotopy theory. </p>  
+    <p>I am a fifth year graduate student in mathematics at Northwestern, advised by <a href="https://sites.northwestern.edu/getzler/">Ezra Getzler</a>. I am interested in algebraic topology and algebraic geometry. Currenty, I am thinking about cobordism theory and intersection theory on the moduli space of curves. </p>  
 </div>
 
 Here is my [CV](./CV.pdf).
 
-### Honours Thesis
+### Papers and preprints
 
-My [thesis](./thesis.pdf) was supervised by Dr. <a href="https://maths.anu.edu.au/people/academics/vigleik-angeltveit/">Vigleik Angeltveit</a>, and gives a complete algebraic description of the homotopy Mackey functors of the equivariant Eilenberg-MacLane spectrum HF_2 over the Klein four group.
+
+### Other writings
+
+My undergraduate thesis, entitled [The Klein four homotopy Mackey functor structure of HF_2](./thesis.pdf).
 
 ### Expository Writings
 

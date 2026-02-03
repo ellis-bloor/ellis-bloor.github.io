@@ -5,6 +5,7 @@
       I am interested in algebraic topology and algebraic geometry. Currently, I am thinking about
       cobordism and intersection theory on the moduli space of curves.
     </p>
+    <p>Here is my <a href="CV.pdf">CV</a>.</p>
   </div>
 
   <div style="flex:0 0 auto;">
@@ -14,8 +15,6 @@
   </div>
 </div>
 
-
-Here is my [CV](./CV.pdf).
 
 ### Papers and preprints
 

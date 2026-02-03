@@ -15,11 +15,8 @@
   </div>
 </div>
 
-
 ### Papers and preprints
 
-
 ### Other writings
-
 My undergraduate thesis, entitled [The Klein four homotopy Mackey functor structure of HF_2](./thesis.pdf).
 

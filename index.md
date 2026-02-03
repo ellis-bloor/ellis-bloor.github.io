@@ -5,7 +5,6 @@
       I am interested in algebraic topology and algebraic geometry. Currently, I am thinking about
       cobordism and intersection theory on the moduli space of curves.
     </p>
-<p>Here is my [CV](./CV.pdf).</p>
   </div>
 
   <div style="flex:0 0 auto;">

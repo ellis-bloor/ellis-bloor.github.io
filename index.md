@@ -1,8 +1,5 @@
 <div style="display:grid; grid-template-columns:repeat(2, 160px); gap:12px; justify-content:start;">
   <img src="Photo.png" style="width:160px;height:160px;object-fit:cover;" alt="Photo">
-  <img src="Photo.png" style="width:160px;height:160px;object-fit:cover;" alt="Photo">
-  <img src="Photo.png" style="width:160px;height:160px;object-fit:cover;" alt="Photo">
-  <img src="Photo.png" style="width:160px;height:160px;object-fit:cover;" alt="Photo">
 </div>
 
 <div>

@@ -6,6 +6,11 @@
       cobordism and intersection theory on the moduli space of curves.
     </p>
     <p>Here is my <a href="CV.pdf">CV</a>.</p>
+
+    ### Papers and preprints
+
+    ### Other writings
+    My undergraduate thesis, entitled [The Klein four homotopy Mackey functor structure of HF_2](./thesis.pdf).
   </div>
 
   <div style="flex:0 0 auto;">

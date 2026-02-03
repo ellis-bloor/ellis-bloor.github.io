@@ -7,19 +7,29 @@
     </p>
 
     <p>Here is my <a href="./CV.pdf">CV</a>.</p>
+
+    <h2>Papers and preprints</h2>
+    <!-- Add papers here, e.g.
+    <ul>
+      <li><a href="...">Title</a> (with coauthors, year)</li>
+    </ul>
+    -->
+
+    <h2>Other writings</h2>
+    <p>
+      My undergraduate thesis, entitled
+      <a href="./thesis.pdf">The Klein four homotopy Mackey functor structure of HF_2</a>.
+    </p>
   </div>
 
   <div style="flex:0 0 auto;">
-    <img src="Photo.png" alt="Photo"
-         style="width:300px; height:auto; border-radius:8px; display:block;">
+    <img src="Photo.png"
+         alt="Photo"
+         style="width:360px; height:auto; border-radius:12px; display:block;">
   </div>
 </div>
 
-### Papers and preprints
-
-### Other writings
-My undergraduate thesis, entitled
-[The Klein four homotopy Mackey functor structure of HF_2](./thesis.pdf).
+  
 
 
 

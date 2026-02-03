@@ -1,3 +1,10 @@
+<div style="display:grid; grid-template-columns:repeat(2, 160px); gap:12px; justify-content:start;">
+  <img src="Photo.png" style="width:160px;height:160px;object-fit:cover;" alt="Photo">
+  <img src="Photo.png" style="width:160px;height:160px;object-fit:cover;" alt="Photo">
+  <img src="Photo.png" style="width:160px;height:160px;object-fit:cover;" alt="Photo">
+  <img src="Photo.png" style="width:160px;height:160px;object-fit:cover;" alt="Photo">
+</div>
+
 <div>
     <p style="float: right;"><img src="./photo.png"> </p>
     <p>I am a fifth year graduate student in mathematics at Northwestern, advised by <a href="https://sites.northwestern.edu/getzler/">Ezra Getzler</a>. I am interested in algebraic topology and algebraic geometry. Currenty, I am thinking about cobordism theory and intersection theory on the moduli space of curves. </p>  

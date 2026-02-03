@@ -14,8 +14,7 @@
     Cobordism-valued intersection theory on M_{0,n}-bar. <em>In preparation.</em>
   </li>
 </ul>
-    -->
-
+    
     <h2>Other writings</h2>
     <p>
       My undergraduate thesis, entitled

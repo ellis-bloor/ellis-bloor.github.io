@@ -3,7 +3,7 @@
     <p>
       I am a fifth year graduate student in mathematics at Northwestern, advised by <a href="https://sites.northwestern.edu/getzler/" target="_blank" rel="noopener">Ezra Getzler</a>.
       I am interested in algebraic topology and algebraic geometry. Currently, I am thinking about
-      cobordism theory and intersection theory on the moduli space of curves.
+      cobordism and intersection theory on the moduli space of curves.
     </p>
 
     <p>Here is my <a href="./CV.pdf">CV</a>.</p>

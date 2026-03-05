@@ -11,7 +11,7 @@
     <h2>Research</h2>
 <ul>
   <li>
-    Cobordism-valued intersection theory on M_{0,n}-bar, [<a href="https://arxiv.org/abs/2603.03829" target="_blank" rel="noopener">https://arxiv.org/abs/2603.03829</a>]
+    Cobordism-valued intersection theory on M_{0,n}-bar, [<a href="https://arxiv.org/abs/2603.03829" target="_blank" rel="noopener">arXiv:2603.03829</a>]
   </li>
 </ul>
     

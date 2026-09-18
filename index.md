@@ -13,6 +13,9 @@
   <li>
     Cobordism-valued intersection theory on M_{0,n}-bar, <em>submitted,</em> [<a href="https://arxiv.org/abs/2603.03829" target="_blank" rel="noopener">arXiv:2603.03829</a>]
   </li>
+  <li>
+    Localization, cobordism, and twisted chi_y-genera of M_{0,n}-bar, <em>in preparation.</em> 
+  </li>
 </ul>
     
     <h2>Other writings</h2>

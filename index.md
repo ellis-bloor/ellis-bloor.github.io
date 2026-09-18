@@ -17,6 +17,12 @@
     Localization, cobordism, and twisted chi_y-genera of M_{0,n}-bar, <em>in preparation.</em> 
   </li>
 </ul>
+
+    <h2>Talks</h2>
+    <li>
+    <a href="https://math.ethz.ch/news-and-events/events/research-seminars/algebraic-geometry-and-moduli-seminar.html?s=hs26" target="_blank" rel="noopener">ETH Z&uumlrich Algebraic Geometry and Moduli Seminar</a>, September 25, 2026.
+  </li>
+  </ul>
     
     <h2>Other writings</h2>
     <p>

@@ -20,6 +20,9 @@
 
     <h2>Talks</h2>
  <ul>
+   <li>
+    <a href="https://faculty.wcas.northwestern.edu/yuchenl/AG_Seminar.html" target="_blank" rel="noopener">Northwestern Algebraic Geometry Seminar</a>, November 18, 2026.
+  </li>
     <li>
     <a href="https://math.ethz.ch/news-and-events/events/research-seminars/algebraic-geometry-and-moduli-seminar.html?s=hs26" target="_blank" rel="noopener">ETH Z&uuml;rich Algebraic Geometry and Moduli Seminar</a>, September 25, 2026.
   </li>

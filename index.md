@@ -10,11 +10,11 @@
 
     <h2>Research</h2>
 <ul>
-  <li>
-    Cobordism-valued intersection theory on M_{0,n}-bar, <em>submitted,</em> [<a href="https://arxiv.org/abs/2603.03829" target="_blank" rel="noopener">arXiv:2603.03829</a>]
+    <li>
+    Localization, cobordism, and twisted chi_y-genera of M_{0,n}-bar, <em>preprint,</em> [<a href="https://arxiv.org/abs/2610.37628" target="_blank" rel="noopener">arXiv:2610.37628</a>] 
   </li>
   <li>
-    Localization, cobordism, and twisted chi_y-genera of M_{0,n}-bar, <em>preprint,</em> [<a href="https://arxiv.org/abs/2610.37628" target="_blank" rel="noopener">arXiv:2610.37628</a>] 
+    Cobordism-valued intersection theory on M_{0,n}-bar, <em>submitted,</em> [<a href="https://arxiv.org/abs/2603.03829" target="_blank" rel="noopener">arXiv:2603.03829</a>]
   </li>
 </ul>
 
